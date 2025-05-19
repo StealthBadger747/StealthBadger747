@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Code-tinkerer • Linux lifer • Infrastructure nerd
 
+🌐 [erikparawell.com](https://erikparawell.com)
+
 ---
 
 ## 🚀 Featured Projects
