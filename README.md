@@ -23,9 +23,10 @@ Code-tinkerer • Linux lifer • Infrastructure nerd
 
 ## 🚀 Featured Projects
 
-- [nix-multi-arch-lab](https://github.com/StealthBadger747/nix-multi-arch-lab) — A NixOS homelab setup that builds multi-architecture images for x86_64, arm64 & RISC-V  
-- [xv6-riscv](https://github.com/StealthBadger747/xv6-riscv) — MIT’s xv6 extended and ported to RISC-V, with container-style primitives  
+- [nix-multi-arch-lab](https://github.com/StealthBadger747/nix-multi-arch-lab) — A NixOS homelab setup that builds multi-architecture images for x86_64, arm64 & RISC-V
+- [KubeNodeSmith](https://github.com/StealthBadger747/KubeNodeSmith) - A Kubernetes autoscaler built on controller-runtime for Proxmox and Redfish clusters. Inspired by Karpenter.
 - [headplane](https://github.com/tale/headplane) — Actively contributing
+- [xv6-riscv](https://github.com/StealthBadger747/xv6-riscv) — MIT’s xv6 extended and ported to RISC-V, with container-style primitives  
 
 Always looking to give back to open source
 
